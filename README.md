@@ -18,6 +18,20 @@ The neural network follows this architecture:
 
 ## 🚀 Quick Start
 
+⚙️ Key Features
+- Data preprocessing and normalization
+- Sequential neural network model building
+- Model training with 20 epochs
+- Performance visualization and prediction testing
+- Comprehensive model summary and analysis
+
+📈 Model Performance
+- The implemented neural network achieves:
+- Effective digit classification on the MNIST dataset
+- Proper learning curve demonstration over 20 epochs
+- Clear visualization of predictions on test samples
+  
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
+
